@@ -360,7 +360,13 @@ const themes = {
     icon_color: "ebbcba",
     text_color: "e0def4",
     bg_color: "191724",
-  }
+  },
+    "qbcore":{
+    title_color: "dc143c",
+    icon_color: "dc143c",
+    text_color: "dc143c",
+    bg_color: "282a36",
+  },
 };
 
 module.exports = themes;
